@@ -1,0 +1,1 @@
+path = 'C:\\Users\\alegr\\Documents\\University\\St-Pierre\\Sample data\\KIN-AG004\\'
